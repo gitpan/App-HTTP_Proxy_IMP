@@ -15,7 +15,7 @@ use App::HTTP_Proxy_IMP::Debug qw(debug $DEBUG $DEBUG_RX);
 use Net::Inspect::Debug qw(%TRACE);
 use Carp 'croak';
 
-our $VERSION = 0.6;
+our $VERSION = 0.7;
 
 # try IPv6 using IO::Socket::IP or IO::Socket::INET6
 # fallback to IPv4 only
@@ -350,3 +350,11 @@ Toggles debugging (e.g. enable|disable).
 =head1 AUTHOR
 
 Steffen Ullrich <sullr@cpan.org>
+
+=head1 COPYRIGHT
+
+Copyright 2012,2013 Steffen Ullrich.
+
+This module is free software; you can redistribute it and/or
+modify it under the same terms as Perl itself.
+
