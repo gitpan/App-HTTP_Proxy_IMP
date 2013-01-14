@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               App-HTTP_Proxy_IMP
-version:            0.7
+version:            0.8
 abstract:           ~
 author:  []
 license:            perl
@@ -10,9 +10,10 @@ configure_requires:
 build_requires:
     ExtUtils::MakeMaker:  0
 requires:
-    AnyEvent:      6.12
-    Net::IMP:      0.49
-    Net::Inspect:  0.22
+    AnyEvent:        6.12
+    Net::IMP:        0.49
+    Net::IMP::HTTP:  0.1
+    Net::Inspect:    0.22
 no_index:
     directory:
         - t
