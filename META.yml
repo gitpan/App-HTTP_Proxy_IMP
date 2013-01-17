@@ -22,4 +22,4 @@ requires:
   Net::IMP: 0.57
   Net::IMP::HTTP: 0.2
   Net::Inspect: 0.25
-version: 0.91
+version: 0.91_1
