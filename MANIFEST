@@ -1,18 +1,19 @@
-Changes
 bin/http_proxy_imp
+Changes
+COPYRIGHT
 lib/App/HTTP_Proxy_IMP.pm
 lib/App/HTTP_Proxy_IMP/Conn.pm
 lib/App/HTTP_Proxy_IMP/Debug.pm
 lib/App/HTTP_Proxy_IMP/IMP.pm
 lib/App/HTTP_Proxy_IMP/IMP/CSRFprotect.pm
 lib/App/HTTP_Proxy_IMP/IMP/Example/changeTarget.pm
+lib/App/HTTP_Proxy_IMP/IMP/FakeResponse.pm
 lib/App/HTTP_Proxy_IMP/Relay.pm
 lib/App/HTTP_Proxy_IMP/Request.pm
-t/01_load.t
 Makefile.PL
-COPYRIGHT
-TODO
-README
 MANIFEST			This list of files
+README
+t/01_load.t
+TODO
 META.yml                                 Module YAML meta-data (added by MakeMaker)
 META.json                                Module JSON meta-data (added by MakeMaker)
