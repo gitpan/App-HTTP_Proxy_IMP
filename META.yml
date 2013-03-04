@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               App-HTTP_Proxy_IMP
-version:            0.942
+version:            0.943
 abstract:           ~
 author:  []
 license:            perl
