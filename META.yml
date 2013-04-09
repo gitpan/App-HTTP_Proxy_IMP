@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               App-HTTP_Proxy_IMP
-version:            0.9431
+version:            0.9432
 abstract:           ~
 author:  []
 license:            perl
@@ -13,7 +13,7 @@ requires:
     AnyEvent:        6.12
     Net::IMP:        0.6
     Net::IMP::HTTP:  0.51
-    Net::Inspect:    0.27
+    Net::Inspect:    0.29
 no_index:
     directory:
         - t
