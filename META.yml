@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               App-HTTP_Proxy_IMP
-version:            0.953
+version:            0.954
 abstract:           HTTP(s) proxy with interface to analyze and manipulate data
 author:
     - Steffen Ullrich <sullr@cpan.org>
@@ -15,7 +15,7 @@ requires:
     IO::Socket::SSL:  1.92
     Net::IMP:         0.617
     Net::IMP::HTTP:   0.51
-    Net::Inspect:     0.29
+    Net::Inspect:     0.302
 resources:
     bugtracker:  https://rt.cpan.org/Dist/Display.html?Queue=App-HTTP_Proxy_IMP
     homepage:    https://github.com/noxxi/p5-app-http_proxy_imp
