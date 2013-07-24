@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               App-HTTP_Proxy_IMP
-version:            0.954
+version:            0.955
 abstract:           HTTP(s) proxy with interface to analyze and manipulate data
 author:
     - Steffen Ullrich <sullr@cpan.org>
